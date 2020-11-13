@@ -1,0 +1,25 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "discordbot voor fabelcraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon"
+
+
+    
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "yoeri",
+  "license": "ISC",
+  "devDependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
+}
